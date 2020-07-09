@@ -1,0 +1,51 @@
+.nav-link {
+    font-size:small;
+    font-weight: bold;
+    width: 100px;
+}
+.carousel-control-next{
+    color: yellowgreen;
+}
+.orange-bg{
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 20px;
+}
+
+.buy-now{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.container{
+    margin-bottom: 150px;
+}
+
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 10px;
+}
+.cf{
+    margin: auto;
+    margin-bottom: 20px;
+}
+.center{
+    text-align: center;
+}
+.lastimg{
+    border: rgb(194, 194, 194);
+    box-shadow: 10px 10px 20px rgb(236, 236, 236);
+    border-radius: 8px 2px 8px 2px;
+    padding: 50px;
+    margin: 10px;
+    cursor: pointer;
+}
+.orange{
+    color: orange;
+}
